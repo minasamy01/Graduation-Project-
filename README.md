@@ -1,29 +1,28 @@
-Smart Agricultural Guide 🌱📲
-
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social) 
-![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social) 
-![Python Version](https://img.shields.io/badge/Python-3.10-blue) 
-![License](https://img.shields.io/badge/License-MIT-green)
-
-A smart system designed to help farmers and agricultural engineers manage and protect their crops efficiently. 
-This project combines weather monitoring, AI-powered plant disease detection, and a chatbot to provide a comprehensive agricultural assistant.
 ---
 
-📌 Table of Contents:
+# Smart Agricultural Guide 🌱📲
 
-1. Project Overview
-2. Why This Project?
-3. Key Features
-4. Technologies Used
-5. Screenshots
-6. Dataset
-7. Future Improvements
-8. Goal
-9. Credits
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social) ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social) ![Python Version](https://img.shields.io/badge/Python-3.10-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+
+A smart system designed to help farmers and agricultural engineers manage and protect their crops efficiently. This project combines weather monitoring, AI-powered plant disease detection, and a chatbot to provide a comprehensive agricultural assistant.
 
 ---
 
-🌿 Project Overview
+## 📌 Table of Contents
+
+1. [Project Overview](#-project-overview)
+2. [Why This Project?](#-why-this-project)
+3. [Key Features](#-key-features)
+4. [Technologies Used](#-technologies-used)
+5. [Screenshots](#-screenshots)
+6. [Dataset](#-dataset)
+7. [Future Improvements](#-future-improvements)
+8. [Goal](#-goal)
+9. [Credits](#-credits)
+
+---
+
+## 🌿 Project Overview
 
 We are excited to present our graduation project: a system capable of monitoring and protecting plants!
 
@@ -100,6 +99,4 @@ To provide farmers and agricultural engineers with an easy-to-use, intelligent s
 
 ---
 
-If you want, I can also **write the exact Markdown code with ready-to-paste links for your GitHub repo**, including **badges for stars, forks, license, and Python version**, so you just need to replace your username and repo name.
 
-Do you want me to do that next?
