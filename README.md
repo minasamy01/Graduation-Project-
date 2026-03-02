@@ -2,7 +2,8 @@
 
 # Smart Agricultural Guide 🌱📲
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social) ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social) ![Python Version](https://img.shields.io/badge/Python-3.10-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+ ![Python Version](https://img.shields.io/badge/Python-3.10-blue) 
+ ![License](https://img.shields.io/badge/License-MIT-green)
 
 A smart system designed to help farmers and agricultural engineers manage and protect their crops efficiently. This project combines weather monitoring, AI-powered plant disease detection, and a chatbot to provide a comprehensive agricultural assistant.
 
