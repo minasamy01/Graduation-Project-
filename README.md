@@ -2,8 +2,11 @@
 
 # Smart Agricultural Guide 🌱📲
 
- ![Python Version](https://img.shields.io/badge/Python-3.10-blue) 
- ![License](https://img.shields.io/badge/License-MIT-green)
+[![Python Version](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![FAISS](https://img.shields.io/badge/VectorDB-FAISS-orange?style=flat)](https://github.com/facebookresearch/faiss)
+[![Cohere](https://img.shields.io/badge/LLM-Cohere--R--Plus-purple?style=flat)](https://cohere.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A smart system designed to help farmers and agricultural engineers manage and protect their crops efficiently. This project combines weather monitoring, AI-powered plant disease detection, and a chatbot to provide a comprehensive agricultural assistant.
 
@@ -20,7 +23,7 @@ A smart system designed to help farmers and agricultural engineers manage and pr
 7. [Future Improvements](#-future-improvements)
 8. [Goal](#-goal)
 9. [Credits](#-credits)
-
+10. [Author](#-author)
 ---
 
 ## 🌿 Project Overview
@@ -99,5 +102,12 @@ To provide farmers and agricultural engineers with an easy-to-use, intelligent s
 * Team contribution: Project developed as a graduation project
 
 ---
+## 👨‍💻 Author
 
+# **Mina Samy**
+### *AI & NLP Engineer*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-data-ai/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaJL%2F1WTcT2eyQjurm1ZczQ%3D%3D) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minasamy01)
+
+---
